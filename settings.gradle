@@ -1,0 +1,3 @@
+include ':count-down-timer'
+include ':app'
+rootProject.name = "CountDown"
